@@ -62,3 +62,19 @@ body {
 .more-info-row img {
   height: 150px;
 }
+
+.more-info-row {
+  display: inline-block;
+}
+
+.stack {
+  width: 33%;
+}
+
+.work {
+  width: 33%;
+}
+
+.other {
+  width: 33%;
+}
