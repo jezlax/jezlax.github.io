@@ -3,6 +3,10 @@
  * Twitter: @kootoopas
  */
 
+ body {
+  font-family: industry, sans-serif;
+ }
+
 /* Exo thin font from Google. */
 @import url(https://fonts.googleapis.com/css?family=Exo:100);
 
