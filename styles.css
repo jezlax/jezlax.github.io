@@ -14,8 +14,14 @@ body {
   vertical-align: middle;
 }
 
-.name p {
-  font-size: 86px;
+.header1 {
+  font-size: 72px;
+  font-weight: normal;
+  margin-bottom: 0px;
+}
+
+.header1 {
+  font-size: 48px;
   font-weight: normal;
   margin-bottom: 0px;
 }
@@ -25,8 +31,7 @@ body {
 }
 
 .about-me {
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
   width: 50%;
 }
 
@@ -44,11 +49,7 @@ body {
   margin-bottom: 25px;
 }
 
-.headshot {
-  overflow: hidden;
-}
-
-.about img {
+.headshot img {
   margin-bottom: -40%;
   height: 250px;
 }
