@@ -72,12 +72,15 @@ body {
 
 .stack {
   width: 33%;
+  display: inline-block;
 }
 
 .work {
   width: 33%;
+  display: inline-block;
 }
 
 .other {
   width: 33%;
+  display: inline-block;
 }
