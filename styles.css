@@ -12,9 +12,8 @@ body {
 }
 
 .name h2 {
-  margin-top: 40%;
   size: 64px;
-  maring-bottom: 0px;
+  margin-bottom: 0px;
 }
 
 .name h4 {
@@ -25,8 +24,9 @@ body {
   color: white;
 }
 
-.about-me {
+.about {
   text-align: center;
+  width: 50%
 }
 
 .logos {
