@@ -38,11 +38,14 @@ body {
 
 .about {
   width: 100%;
-  overflow: hidden;
 }
 
 .about h2 {
   margin-bottom: 25px;
+}
+
+.headshot {
+  overflow: hidden;
 }
 
 .about img {
