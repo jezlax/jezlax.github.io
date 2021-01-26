@@ -58,3 +58,7 @@ body {
   width: 50%;
   text-align: center;
 }
+
+.more-info-row img {
+  height: 150px;
+}
