@@ -11,10 +11,11 @@ body {
 .name {
   color: white;
   text-align: center;
+  vertical-align: middle;
 }
 
 .name p {
-  size: 86;
+  font-size: 86px;
   font-weight: normal;
   margin-bottom: 0px;
 }
