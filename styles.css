@@ -59,7 +59,8 @@ body {
 
 .about-text {
   width: 50%;
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .more-info-row img {
