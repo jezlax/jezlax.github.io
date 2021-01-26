@@ -14,12 +14,14 @@ body {
 }
 
 .name h2 {
-  size: 64px;
+  size: 86;
+  font-weight: normal;
   margin-bottom: 0px;
 }
 
 .name h4 {
   size: 48px;
+  font-weight: normal;
 }
 
 .logos a {
