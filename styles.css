@@ -33,7 +33,6 @@ body {
 
 .about-me {
   text-align: center;
-  width: 50%;
 }
 
 .logos {
@@ -61,6 +60,7 @@ body {
 
 .about-text {
   width: 50%;
+  text-align: center;
 }
 
 .more-info-row img {
