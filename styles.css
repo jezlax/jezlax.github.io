@@ -38,12 +38,23 @@ body {
 .about {
   width: 100%;
 }
+
+.about h2 {
+  margin-bottom: 25px;
+}
+
 .about img {
   margin-bottom: -40%;
   height: 250px;
   overflow: hidden;
+  margin-bottom: 25px;
 }
 
 .about p {
   size: 24px;
+}
+
+.about-text {
+  width: 50%;
+  text-align: center;
 }
