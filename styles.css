@@ -5,6 +5,7 @@ body {
 .main {
   background-color: grey;
   margin:0px;
+  height:100vh;
 }
 
 .name {
@@ -25,7 +26,7 @@ body {
   color: white;
 }
 
-.about {
+.about-me {
   text-align: center;
   width: 50%
 }
