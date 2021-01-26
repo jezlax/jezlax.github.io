@@ -35,7 +35,15 @@ body {
   margin-right: auto;
 }
 
+.about {
+  width: 100%;
+}
 .about img {
   margin-bottom: -40%;
-  height: 100px;
+  height: 250px;
+  overflow: hidden;
+}
+
+.about p {
+  size: 24px;
 }
