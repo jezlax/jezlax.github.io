@@ -72,6 +72,7 @@ body {
 
 .more-info-row {
   display: inline-block;
+  text-align: center;
 }
 
 .stack {
