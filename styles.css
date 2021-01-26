@@ -67,6 +67,10 @@ body {
   height: 100px;
 }
 
+.more-info-row p {
+  size: 36px;
+}
+
 .more-info-row {
   display: inline-block;
 }
@@ -74,14 +78,17 @@ body {
 .stack {
   width: 33%;
   display: inline-block;
+  text-align: center;
 }
 
 .work {
   width: 33%;
   display: inline-block;
+  text-align: center;
 }
 
 .other {
   width: 33%;
   display: inline-block;
+  text-align: center;
 }
