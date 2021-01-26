@@ -20,7 +20,7 @@ body {
   margin-bottom: 0px;
 }
 
-.header1 {
+.header2 {
   font-size: 48px;
   font-weight: normal;
   margin-bottom: 0px;
@@ -43,6 +43,7 @@ body {
 
 .about {
   width: 100%;
+  text-align: center;
 }
 
 .about h2 {
@@ -50,7 +51,6 @@ body {
 }
 
 .headshot img {
-  margin-bottom: -40%;
   height: 250px;
 }
 
