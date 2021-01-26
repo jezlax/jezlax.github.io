@@ -24,6 +24,7 @@ body {
   font-size: 48px;
   font-weight: normal;
   margin-bottom: 0px;
+  margin-top: 0px;
 }
 
 .logos a {
@@ -78,16 +79,19 @@ body {
   width: 33%;
   display: inline-block;
   text-align: center;
+  vertical-align: top;
 }
 
 .work {
   width: 33%;
   display: inline-block;
   text-align: center;
+  vertical-align: top;
 }
 
 .other {
   width: 33%;
   display: inline-block;
   text-align: center;
+  vertical-align: top;
 }
