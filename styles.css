@@ -38,6 +38,7 @@ body {
 
 .about {
   width: 100%;
+  overflow: hidden;
 }
 
 .about h2 {
@@ -47,8 +48,6 @@ body {
 .about img {
   margin-bottom: -40%;
   height: 250px;
-  overflow: hidden;
-  margin-bottom: 25px;
 }
 
 .about p {
