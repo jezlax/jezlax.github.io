@@ -13,15 +13,10 @@ body {
   text-align: center;
 }
 
-.name h2 {
+.name p {
   size: 86;
   font-weight: normal;
   margin-bottom: 0px;
-}
-
-.name h4 {
-  size: 48px;
-  font-weight: normal;
 }
 
 .logos a {
